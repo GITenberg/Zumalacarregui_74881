@@ -1,0 +1,37 @@
+_repo: Zumalacarregui_74881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    - Galdós, Pérez
+    - Galdós, B. Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+description: ''
+gutenberg_issued: '2024-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74881'
+language: es
+pgterms:marc904: https://archive.org/details/zumalacarregui11prez
+pgterms:marc905: 20241105141015prezgalds
+pgterms:marc906: '1924'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This book was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aMadrid :$bLibrería de los Sucesores de Hernando, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zumalacárregui
+url: http://www.gutenberg.org/ebooks/74881
